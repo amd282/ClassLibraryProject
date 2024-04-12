@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Amh+BVMKPvaeqtloiJglJvR5KOzGs/6N3aODEoOPaeDGYWJ1XmJJhgn1BzJMoL20nd7fuKrZAw03vrZZCNkJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amd28\\Documents\\GitHub\\ClassLibraryProject\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amd28\\.nuget\\packages\\stringlibrary\\1.0.0-ci-20240411-204418\\stringlibrary.1.0.0-ci-20240411-204418.nupkg.sha512"
+  ],
+  "logs": []
+}
